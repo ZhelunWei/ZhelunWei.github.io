@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Zhelun Wei</title>
+		<link rel="stylesheet" type="text/css" href="style.css"/>
+	</head>
+	<body>
+		<div id="header">
+			<h1>Zhelun Wei</h1>	
+		</div>
+		<div id="anotherdiv">
+			<div class="anotherdiv_schoolstuff" id="anotherdiv_1">
+				<img src="testudo.jpg" alt="testudo">
+			
+				<p>
+					My name is Zhelun Wei and I am a senior at UMD Majoring Information Science. I am interested in python and sql development. 
+				</p>
+		</div>
+		<div class="anotherdiv" id="anotherdiv_2">
+			<div class="anotherdiv_2_JobExperience">
+				<h2>AMPS in stat100</h2>
+				<p>AMPs in the school is a valuable experience.I will take the classes with students and answer their questions.There is no need of grading.Helping me to learn how to explain concepts to the students.</p>
+				
+		</div>
+		<div class="anotherdiv_2_JobExperience">
+			<h2>The tech company Intership</h2>
+			<p>I have a two week internship in the company as an assistance.Learned a lot in how to build softwares.learned a lot about how to perform a team work.Met many new friends</p>
+			
+		</div>
+		<div class="anotherdiv_2_JobExperience">
+			<h2>Being a voluntter in the ischool</h2>
+			<p>voluntering experience helped me learned a lot about.You need to organize everything perfectly.If you did not finish your job on time, you will cause troubles to others.</p>
+			
+		</div>				
+	</div>			
+</div>
+
+</body>
+</html>

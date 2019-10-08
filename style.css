@@ -1,0 +1,56 @@
+#header{
+    background-color: darkblue;
+    background-image: url("testudo.jpg");
+    color:yellow;
+
+
+}
+
+#anotherdive{
+    width:60%;
+    text-align: center;
+}
+#header{
+    width:60%;
+    text-align: center;
+}
+
+.anotherdiv{
+    display:grid;
+    grid-template-columns: repeat(4,25%);
+    grid-column-gap:10px;
+}
+.anotherdiv_2_JobExperience{
+    display:grid;
+    grid-template-columns: repeat(4,25%);
+    grid-column-gap:10px;
+
+}
+
+
+
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+body {
+  color: blue;
+}
+
+body {
+  background-color: lightblue;
+}
+div {
+  resize: vertical;
+  overflow: auto;
+}
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
